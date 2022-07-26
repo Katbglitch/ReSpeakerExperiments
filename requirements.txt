@@ -1,0 +1,5 @@
+Tuning
+usb.core
+usb.util
+time
+pyaudio
